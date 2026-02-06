@@ -102,10 +102,16 @@ Worked across multiple repositories with a focus on **UX, accessibility, and fro
 ## 🔗 Useful Links
 
 - All PRs:  
-  https://github.com/pulls?q=is%3Apr+author%3AChaitu7032  
+    👉 https://github.com/pulls?q=is%3Apr+author%3AChaitu7032  
 
 - Music Blocks PRs:  
-  https://github.com/sugarlabs/musicblocks/pulls?q=is%3Apr+author%3AChaitu7032  
+    👉 https://github.com/sugarlabs/musicblocks/pulls?q=is%3Apr+author%3AChaitu7032
+
+- ✅ All Merged Pull Requests
+
+  A complete list of all my merged pull requests across organizations can be found here:
+  
+  👉 https://github.com/pulls?q=is%3Apr+author%3AChaitu7032+is%3Amerged
 
 - GitHub Activity:  
   https://github.com/Chaitu7032?tab=activity  
