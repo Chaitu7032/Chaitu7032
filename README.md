@@ -43,45 +43,42 @@ I care about **security, performance, accessibility, and code quality**, especia
 Focused on **security hardening and performance improvements** without breaking offline or local usage.
 
 #### 
-Open Source Contributions (Highlights)
-🟣 Sugar Labs — Music Blocks (Selected Merged PRs)
+## 🌱 Open Source Contributions (Highlights)
 
-Focused on security, stability, performance, and build reliability in a production-scale codebase.
+### 🟣 Sugar Labs — Music Blocks  
+*Selected merged pull requests focused on security, stability, performance, and build reliability in a production-scale codebase.*
 
-- Fix unsafe HTML export by escaping project metadata
-https://github.com/sugarlabs/musicblocks/pull/5309
+---
 
-→ Prevented XSS risk during HTML export
+- **Fix unsafe HTML export by escaping project metadata**  
+  → Prevented XSS risks during HTML export  
+  🔗 https://github.com/sugarlabs/musicblocks/pull/5309  
 
-- Prevent startup crash when mode UI elements are missing
-https://github.com/sugarlabs/musicblocks/pull/5263
+- **Prevent startup crash when mode UI elements are missing**  
+  → Improved application stability during initialization  
+  🔗 https://github.com/sugarlabs/musicblocks/pull/5263  
 
-→ Improved app stability during initialization
+- **Fix oscilloscope RAF lifecycle to stop background animation**  
+  → Prevented unnecessary background animations and CPU usage  
+  🔗 https://github.com/sugarlabs/musicblocks/pull/5218  
 
-- Fix oscilloscope RAF lifecycle to stop background animation
-https://github.com/sugarlabs/musicblocks/pull/5218
+- **Fix Service Worker crash caused by `window` usage**  
+  → Improved offline reliability and install prompt behavior  
+  🔗 https://github.com/sugarlabs/musicblocks/pull/4997  
 
-→ Prevented unnecessary background work and CPU usage
+- **Fix security issues without breaking local loading**  
+  → Security hardening while preserving offline and local usage  
+  🔗 https://github.com/sugarlabs/musicblocks/pull/4958  
 
-- Fix Service Worker crash caused by window usage
-https://github.com/sugarlabs/musicblocks/pull/4997
+- **Improve performance & best practices for Music Blocks**  
+  → Lighthouse-driven performance and loading improvements  
+  🔗 https://github.com/sugarlabs/musicblocks/pull/4834  
 
-→ Improved offline reliability and install flow
+- **Fix gulp workflow and resolve postcss / cssnano dependency issues**  
+  → Stabilized build process and CI pipeline  
+  🔗 https://github.com/sugarlabs/musicblocks/pull/5141  
 
-- Fix security issues without breaking local loading
-https://github.com/sugarlabs/musicblocks/pull/4958
-
-→ Security hardening while preserving offline/local behavior
-
-- Improve performance & best practices
-https://github.com/sugarlabs/musicblocks/pull/4834
-
-→ Lighthouse-driven performance improvements
-
-- Fix gulp workflow and resolve postcss/cssnano dependency issues
-https://github.com/sugarlabs/musicblocks/pull/5141
-
-→ Stabilized build and CI pipeline
+---
 
 
 
