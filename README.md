@@ -42,10 +42,7 @@ I care about **security, performance, accessibility, and code quality**, especia
 
 Focused on **security hardening and performance improvements** without breaking offline or local usage.
 
-#### 
-## 🌱 Open Source Contributions (Highlights)
 
-### 🟣 Sugar Labs — Music Blocks  
 *Selected merged pull requests focused on security, stability, performance, and build reliability in a production-scale codebase.*
 
 ---
