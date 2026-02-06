@@ -42,32 +42,48 @@ I care about **security, performance, accessibility, and code quality**, especia
 
 Focused on **security hardening and performance improvements** without breaking offline or local usage.
 
-#### Selected Pull Requests
+#### 
+Open Source Contributions (Highlights)
+🟣 Sugar Labs — Music Blocks (Selected Merged PRs)
 
-- **Improve performance & best practices** *(Merged)*  
-  https://github.com/sugarlabs/musicblocks/pull/4834  
-  - Reduced render-blocking  
-  - Improved script loading  
-  - Lighthouse-verified improvements  
+Focused on security, stability, performance, and build reliability in a production-scale codebase.
 
-- **Security improvements & dependency cleanup** *(Closed)*  
-  https://github.com/sugarlabs/musicblocks/pull/4885  
-  - Removed unsafe dynamic execution  
-  - Safer plugin handling  
-  - Dependency cleanup  
+- Fix unsafe HTML export by escaping project metadata
+https://github.com/sugarlabs/musicblocks/pull/5309
 
-- **Fix critical security issues** *(Closed)*  
-  https://github.com/sugarlabs/musicblocks/pull/4877  
-  - Removed risky `eval()` usage  
-  - Secured plugin execution flow  
+→ Prevented XSS risk during HTML export
 
-- **Security fixes preserving offline behavior** *(Open)*  
-  https://github.com/sugarlabs/musicblocks/pull/4958  
-  - Safer DOM usage  
-  - Electron security flags  
-  - Offline/local behavior preserved  
+- Prevent startup crash when mode UI elements are missing
+https://github.com/sugarlabs/musicblocks/pull/5263
 
----
+→ Improved app stability during initialization
+
+- Fix oscilloscope RAF lifecycle to stop background animation
+https://github.com/sugarlabs/musicblocks/pull/5218
+
+→ Prevented unnecessary background work and CPU usage
+
+- Fix Service Worker crash caused by window usage
+https://github.com/sugarlabs/musicblocks/pull/4997
+
+→ Improved offline reliability and install flow
+
+- Fix security issues without breaking local loading
+https://github.com/sugarlabs/musicblocks/pull/4958
+
+→ Security hardening while preserving offline/local behavior
+
+- Improve performance & best practices
+https://github.com/sugarlabs/musicblocks/pull/4834
+
+→ Lighthouse-driven performance improvements
+
+- Fix gulp workflow and resolve postcss/cssnano dependency issues
+https://github.com/sugarlabs/musicblocks/pull/5141
+
+→ Stabilized build and CI pipeline
+
+
 
 ## 🏆 GSSoC 2025 Contributions
 
