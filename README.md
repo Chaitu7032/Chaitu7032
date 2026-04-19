@@ -32,7 +32,8 @@ I care about **security, performance, accessibility, and code quality**, especia
 - Security-aware JavaScript & frontend engineering  
 - Performance optimization (Lighthouse, load behavior)  
 - Accessibility and user-centered interfaces  
-- Clean, maintainable codebases  
+- Clean, maintainable codebases
+- Maintenance 
 
 ---
 
