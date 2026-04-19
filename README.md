@@ -22,7 +22,7 @@ I contribute to **production-level open-source projects**, focusing on changes t
 - easy to review and maintain  
 - backed by testing or measurable improvements  
 
-I care about **security, performance, accessibility, and code quality**, especially in real user-facing applications.
+I care about **security, performance, accessibility, code quality , Maintainability **, especially in real user-facing applications.
 
 ---
 
