@@ -21,12 +21,12 @@
 <br/><br/>
 
 <a href="#-about-me">About</a>
- •  <a href="#-engineering-highlights">Highlights</a>
- •  <a href="#-sugar-labs--music-blocks">Music Blocks</a>
- •  <a href="#-open-source-contributions">Contributions</a>
- •  <a href="#%EF%B8%8F-tech-stack">Tech Stack</a>
- •  <a href="#-github-analytics">Analytics</a>
- •  <a href="#-connect-with-me">Contact</a>
+ •  <a href="#-engineering-highlights">Highlights</a>
+ •  <a href="#-sugar-labs--music-blocks">Music Blocks</a>
+ •  <a href="#-open-source-contributions">Contributions</a>
+ •  <a href="#%EF%B8%8F-tech-stack">Tech Stack</a>
+ •  <a href="#-github-analytics">Analytics</a>
+ •  <a href="#-connect-with-me">Contact</a>
 
 </div>
 
@@ -170,7 +170,7 @@ Smaller & More Maintainable blocks.js
 ### 🔐 Security
 
 | Pull Request                                                | Contribution                                        | Impact                                                   |
-| :---------------------------------------------------------- | :-------------------------------------------------- | :------------------------------------------------------- |
+| :---------------------------------------------------------- | :--------------------------------------------------- | :--------------------------------------------------------- |
 | [#5309](https://github.com/sugarlabs/musicblocks/pull/5309) | Fix unsafe HTML export by escaping project metadata | Prevented potential XSS during HTML export               |
 | [#4958](https://github.com/sugarlabs/musicblocks/pull/4958) | Fix security issues while preserving local loading  | Improved security without breaking offline compatibility |
 
@@ -179,7 +179,7 @@ Smaller & More Maintainable blocks.js
 ### ⚡ Performance
 
 | Pull Request                                                | Contribution                                       | Impact                                           |
-| :---------------------------------------------------------- | :------------------------------------------------- | :----------------------------------------------- |
+| :---------------------------------------------------------- | :--------------------------------------------------- | :--------------------------------------------------- |
 | [#5218](https://github.com/sugarlabs/musicblocks/pull/5218) | Fix oscilloscope `requestAnimationFrame` lifecycle | Eliminated unnecessary background animation work |
 | [#4834](https://github.com/sugarlabs/musicblocks/pull/4834) | Performance and best-practices improvements        | Delivered Lighthouse-driven improvements         |
 
@@ -188,7 +188,7 @@ Smaller & More Maintainable blocks.js
 ### 🛡️ Stability & Reliability
 
 | Pull Request                                                | Contribution                                            | Impact                            |
-| :---------------------------------------------------------- | :------------------------------------------------------ | :-------------------------------- |
+| :---------------------------------------------------------- | :--------------------------------------------------------- | :----------------------------------- |
 | [#5263](https://github.com/sugarlabs/musicblocks/pull/5263) | Prevent startup crash when mode UI elements are missing | Improved initialization stability |
 | [#4997](https://github.com/sugarlabs/musicblocks/pull/4997) | Fix Service Worker crash caused by `window` usage       | Improved offline reliability      |
 
@@ -197,7 +197,7 @@ Smaller & More Maintainable blocks.js
 ### 🔧 Build & Infrastructure
 
 | Pull Request                                                | Contribution                                         | Impact                                     |
-| :---------------------------------------------------------- | :--------------------------------------------------- | :----------------------------------------- |
+| :---------------------------------------------------------- | :------------------------------------------------------ | :-------------------------------------------- |
 | [#5141](https://github.com/sugarlabs/musicblocks/pull/5141) | Fix gulp workflow and resolve PostCSS/cssnano issues | Stabilized development and build workflows |
 
 <br/>
@@ -242,51 +242,119 @@ Smaller & More Maintainable blocks.js
 
 ## 🌱 Featured Projects
 
-### 🌾 CPDE — Crop Stress Detection & Early Warning Engine
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> A research-oriented precision agriculture platform designed to identify early signs of crop stress using satellite and environmental data.
-
-<br/>
+<h3 align="center">🌾 CPDE</h3>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Sentinel--2-Satellite%20Imagery-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/MODIS-Land%20Temperature-A78BFA?style=flat-square"/>
-<img src="https://img.shields.io/badge/NASA%20POWER-Climate%20Data-312E81?style=flat-square"/>
-<img src="https://img.shields.io/badge/PostGIS-Geospatial%20Database-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/FastAPI-Backend-A78BFA?style=flat-square"/>
-<img src="https://img.shields.io/badge/React-Frontend-312E81?style=flat-square"/>
+<strong>Crop Stress Detection & Early Warning Engine</strong>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Precision-Agriculture-7C3AED?style=for-the-badge" />
 
 </div>
 
 <br/>
 
-**Core Engineering Areas**
+A research-oriented precision agriculture platform designed to identify early signs of crop stress using satellite imagery and environmental data.
 
-```text
-Satellite Imagery
-        │
-        ▼
-Geospatial Processing
-        │
-        ▼
-Vegetation & Moisture Analysis
-        │
-        ▼
-Environmental Data Integration
-        │
-        ▼
-Crop Stress Risk Assessment
-        │
-        ▼
-Early Warning Interface
-```
+<br/>
 
-**Technology Stack**
+### 🔬 Core Engineering
 
-`Sentinel-2` • `MODIS` • `NASA POWER` • `PostgreSQL` • `PostGIS` • `FastAPI` • `React`
+- 🛰️ Satellite imagery processing
+- 🌿 NDVI & NDMI vegetation analysis
+- 🌡️ Land surface temperature analysis
+- 🗺️ Geospatial data processing
+- 📊 Crop stress risk assessment
+- ⚠️ Early warning generation
 
-> Developed as an academic and research-oriented software engineering project exploring the intersection of geospatial systems, satellite data, and precision agriculture.
+<br/>
+
+### ⚙️ Technology
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Sentinel--2-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/MODIS-A78BFA?style=flat-square" />
+<img src="https://img.shields.io/badge/NASA_POWER-6366F1?style=flat-square" />
+<img src="https://img.shields.io/badge/PostGIS-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/FastAPI-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/React-A78BFA?style=flat-square" />
+
+</div>
+
+<br/>
+
+> Exploring the intersection of geospatial systems, satellite data, environmental intelligence, and precision agriculture.
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🧠 StudentOS AI</h3>
+
+<div align="center">
+
+<strong>AI-Powered Student Productivity & Intelligence Platform</strong>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AI-Productivity_Platform-7C3AED?style=for-the-badge" />
+
+</div>
+
+<br/>
+
+An intelligent student productivity platform designed to help students manage academic work, commitments, priorities, and execution using AI-assisted planning.
+
+<br/>
+
+### 🤖 Core Engineering
+
+- 🎯 Intelligent task prioritization
+- 📅 Academic planning & scheduling
+- ⚡ Productivity workflow automation
+- 🧠 AI-assisted decision support
+- 📊 Progress & workload insights
+- 🚨 Risk and deadline awareness
+
+<br/>
+
+### ⚙️ Technology
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Next.js-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/TypeScript-A78BFA?style=flat-square" />
+<img src="https://img.shields.io/badge/Firebase-6366F1?style=flat-square" />
+<img src="https://img.shields.io/badge/Gemini_AI-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Tailwind-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/React-A78BFA?style=flat-square" />
+
+</div>
+
+<br/>
+
+> Exploring how AI, intelligent planning, and software systems can improve student productivity and execution.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### `Research Systems × Artificial Intelligence × Full-Stack Engineering`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+systems+for+real-world+problems.;From+satellite+intelligence+to+AI-powered+productivity.;Research.+Engineering.+Open+Source.+Impact." alt="Project Animation" />
+
+</div>
 
 <br/>
 
@@ -334,17 +402,32 @@ Early Warning Interface
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Chaitu7032&show_icons=true&bg_color=09090b&title_color=A78BFA&icon_color=7C3AED&text_color=e2e8f0&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" height="170em" alt="GitHub Statistics"/>
+<img
+  src="https://github-stats-extended.vercel.app/api?username=Chaitu7032&show_icons=true&bg_color=09090b&title_color=A78BFA&icon_color=8B5CF6&text_color=E2E8F0&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"
+  height="170"
+  alt="Krishna Chaitanya Kona GitHub Statistics"
+/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Chaitu7032&layout=compact&bg_color=09090b&title_color=A78BFA&text_color=e2e8f0&hide_border=true&cache_seconds=86400" height="170em" alt="Top Languages"/>
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Chaitu7032&layout=compact&bg_color=09090b&title_color=A78BFA&text_color=E2E8F0&hide_border=true&cache_seconds=86400"
+  height="170"
+  alt="Most Used Languages"
+/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Chaitu7032&background=09090b&ring=7C3AED&fire=A78BFA&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=8892b0&border=312E81&hide_border=false" alt="GitHub Streak"/>
+<img
+  src="https://streak-stats.demolab.com/?user=Chaitu7032&background=09090B&border=7C3AED&stroke=475569&ring=7C3AED&fire=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E2E8F0&sideLabels=E2E8F0&dates=94A3B8"
+  alt="GitHub Streak Statistics"
+/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chaitu7032&bg_color=09090b&color=e2e8f0&line=7C3AED&point=A78BFA&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity Graph"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Chaitu7032&bg_color=09090B&color=E2E8F0&line=8B5CF6&point=A78BFA&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity"
+  width="100%"
+  alt="GitHub Contribution Activity Graph"
+/>
 
 </div>
 
@@ -398,7 +481,7 @@ If you're working on an open-source project involving **software architecture, s
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Always+learning.+Always+building.+Always+contributing.;See+you+in+the+next+pull+request+%F0%9F%9A%80" alt="Footer Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Always+learning.+Always+building.+Always+contributing.;See+you+in+the+next+pull+request+%F0%9F%9A%80" alt="Footer Typing Animation" />
 
 </div>
 
