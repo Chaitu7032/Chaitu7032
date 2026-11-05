@@ -4,7 +4,7 @@
 
 **Software Engineering Student · Open-Source Contributor · Full-Stack Developer**
 
-[GitHub](https://github.com/Chaitu7032) · [LinkedIn](https://www.linkedin.com/in/krishna-chaitanya-kona-078119334) · [Music Blocks PRs](https://github.com/sugarlabs/musicblocks/pulls?q=is%3Apr+author%3AChaitu7032) · [Merged PRs](https://github.com/pulls?q=is%3Apr+author%3AChaitu7032+is%3Amerged)
+[GitHub](https://github.com/Chaitu7032) · [LinkedIn](https://www.linkedin.com/in/krishna-chaitanya-kona-078119334) 
 
 </div>
 
@@ -98,11 +98,12 @@ I'm an Integrated M.Tech Software Engineering student at VIT-AP University (2029
 <br/>
 
 <img height="180" alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chaitu7032&theme=github_dark"/>
-<img height="180" alt="Most used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-lang?username=Chaitu7032&theme=github_dark"/>
 
 <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Chaitu7032&theme=dark&background=0d1117&border=312E81&ring=7C3AED&fire=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E2E8F0&sideLabels=E2E8F0&dates=94A3B8"/>
 
 </div>
+
+[![Merged PRs](https://img.shields.io/badge/Sugar_Labs-Merged_PRs-8957e5?logo=github)](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AChaitu7032+org%3Asugarlabs)
 
 ## Contact
 
@@ -115,7 +116,7 @@ I'm an Integrated M.Tech Software Engineering student at VIT-AP University (2029
       Open-source projects involving architecture, security, performance, testing or full-stack work.<br/><br/>
       <a href="https://github.com/Chaitu7032"><img src="https://img.shields.io/badge/GitHub-Chaitu7032-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
       <a href="https://www.linkedin.com/in/krishna-chaitanya-kona-078119334"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-      <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+      <a href="mailto:konakrishnachaitanya1@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     </td>
   </tr>
 </table>
